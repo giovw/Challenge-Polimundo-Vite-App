@@ -1,7 +1,8 @@
-# Vue 3 + Vite
+# Vue 2 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+1.- Clone repo
+2.- Go to folder project
+3.- Open terminal in root folder project
+4.- In terminal run <-- docker build -t challenge-polimundo-vite-app . -->
+5.- Next step, in terminal run <-- docker run -it -p 8080:8080 --rm --name challenge-polimundo-vite-app challenge-polimundo-vite-app -->
+6.- Project is star in http://127.0.0.1:8080
