@@ -1,6 +1,6 @@
 # Vue 2 + Vite
 
-1.- Clone repo
+1.- Clone repo <br>
 2.- Go to folder project
 3.- Open terminal in root folder project
 4.- In terminal run <-- docker build -t challenge-polimundo-vite-app . -->
